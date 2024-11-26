@@ -1,0 +1,27 @@
+/* Reset default margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+/* Header style */
+header h1 {
+    color: #bf94e4;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+/* Main content style */
+main p {
+    font-size: 1.2em;
+    color: #333;
+}
